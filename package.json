@@ -1,0 +1,23 @@
+{
+  "name": "travisnashprofile",
+  "version": "1.0.0",
+  "description": "Profile page revamp",
+  "main": "index.js",
+  "dependencies": {
+    "bulma": "^0.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travisnash99/travisNashProfile.git"
+  },
+  "author": "Travis Nash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travisnash99/travisNashProfile/issues"
+  },
+  "homepage": "https://github.com/travisnash99/travisNashProfile#readme"
+}
